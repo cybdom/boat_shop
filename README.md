@@ -1,7 +1,7 @@
 # boat_shop
 
-Writter tutorial: https://cybdom.tech/<br>
-Video tutorial: 
+Writter tutorial: https://cybdom.tech/flutter-tutorial:-ecommerce-boat-shop-ui/<br>
+Video tutorial: https://www.youtube.com/watch?v=xr2R6nki9to
 
 <img src="screenshot_2.jpg" height="480px"><br>
 <img src="screenshot_3.jpg" height="480px"><br>
